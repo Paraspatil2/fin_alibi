@@ -1,0 +1,53 @@
+[
+  {
+    "id": "REC-101",
+    "employee_id": "EMP001",
+    "merchant": "The Bistro",
+    "tax_id": "TAX998877",
+    "bill_no": "B-001",
+    "date": "2026-10-01",
+    "time": "19:30",
+    "city": "Boston",
+    "country": "USA",
+    "currency": "USD",
+    "total": 85.0,
+    "tax_breakdown": [{"name": "Sales Tax", "rate": 0.08, "amount": 6.29}],
+    "round_off": 0.0,
+    "payment_method": "Credit Card",
+    "line_items": [
+      {"description": "Steak Dinner", "quantity": 1.0, "unit_price": 55.0, "total": 55.0, "category": "Meals & Entertainment"},
+      {"description": "Wine", "quantity": 1.0, "unit_price": 23.71, "total": 23.71, "category": "Meals & Entertainment"}
+    ],
+    "attendees": ["Alice Smith", "Client John"],
+    "client_name": "Client John",
+    "notes": "Client meeting dinner",
+    "trip_id": "TRIP-01",
+    "channel": "PDF",
+    "submitted_at": "2026-10-02T10:00:00Z"
+  },
+  {
+    "id": "REC-102",
+    "employee_id": "EMP001",
+    "merchant": "Grand Hotel",
+    "tax_id": "TAX112233",
+    "bill_no": "H-555",
+    "date": "2026-10-02",
+    "time": "08:00",
+    "city": "Boston",
+    "country": "USA",
+    "currency": "USD",
+    "total": 220.0,
+    "tax_breakdown": [{"name": "City Tax", "rate": 0.1, "amount": 20.0}],
+    "round_off": 0.0,
+    "payment_method": "Corporate Card",
+    "line_items": [
+      {"description": "Room Night", "quantity": 1.0, "unit_price": 200.0, "total": 200.0, "category": "Lodging"}
+    ],
+    "attendees": [],
+    "client_name": null,
+    "notes": "Conference stay",
+    "trip_id": "TRIP-01",
+    "channel": "PDF",
+    "submitted_at": "2026-10-02T10:00:00Z"
+  }
+]

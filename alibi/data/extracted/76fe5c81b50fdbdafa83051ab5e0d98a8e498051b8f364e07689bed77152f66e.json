@@ -1,0 +1,89 @@
+{
+  "id": "REC-76fe5c",
+  "employee_id": "EMP001",
+  "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+  "tax_id": "27ABQCS9243P1Z8",
+  "bill_no": "79418",
+  "date": "2024-10-18",
+  "time": "01:38",
+  "city": "Mumbai",
+  "country": "India",
+  "currency": "INR",
+  "total": 529.0,
+  "tax_breakdown": [
+    {
+      "name": "CGST",
+      "rate": 2.5,
+      "amount": 12.6,
+      "confidence": 0.98
+    },
+    {
+      "name": "SGST",
+      "rate": 2.5,
+      "amount": 12.6,
+      "confidence": 0.98
+    }
+  ],
+  "round_off": -0.2,
+  "payment_method": "Online",
+  "line_items": [
+    {
+      "description": "Garlic Bread Sticks",
+      "quantity": 1.0,
+      "unit_price": 155.0,
+      "total": 155.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "Cheesey Dip",
+      "quantity": 1.0,
+      "unit_price": 30.0,
+      "total": 30.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "Triple Chocolate Brownie",
+      "quantity": 1.0,
+      "unit_price": 149.0,
+      "total": 149.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "Macaroni & Cheese Veg",
+      "quantity": 1.0,
+      "unit_price": 209.0,
+      "total": 209.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "Cheese & Herb Pizza",
+      "quantity": 2.0,
+      "unit_price": 89.0,
+      "total": 178.0,
+      "category": "Food",
+      "confidence": 0.99
+    }
+  ],
+  "attendees": [],
+  "client_name": "Marmik Agrawal",
+  "notes": "Token No.: 47, Order ID: 251236974131618, Discount Fixed: 217.00",
+  "trip_id": null,
+  "channel": "digital",
+  "submitted_at": null,
+  "confidence_scores": {
+    "merchant": 0.98,
+    "tax_id": 0.99,
+    "bill_no": 0.99,
+    "date": 0.92,
+    "time": 0.98,
+    "total": 0.99,
+    "line_items": 0.98
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "76fe5c81b50fdbdafa83051ab5e0d98a8e498051b8f364e07689bed77152f66e"
+}

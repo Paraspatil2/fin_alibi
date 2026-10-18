@@ -1,0 +1,20 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Alice Smith",
+    "home_city": "New York",
+    "grade": "L3"
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Bob Jones",
+    "home_city": "London",
+    "grade": "L2"
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Charlie Brown",
+    "home_city": "Mumbai",
+    "grade": "Executive"
+  }
+]

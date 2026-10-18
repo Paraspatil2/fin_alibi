@@ -1,0 +1,88 @@
+{
+  "id": "REC-receipt_00001",
+  "employee_id": "EMP001",
+  "merchant": "SPGTHY BOLOGNASE",
+  "tax_id": null,
+  "bill_no": null,
+  "date": "2026-10-01",
+  "time": null,
+  "city": null,
+  "country": null,
+  "currency": "USD",
+  "total": 580965.0,
+  "tax_breakdown": [
+    {
+      "name": "Tax",
+      "rate": null,
+      "amount": 528151.0,
+      "confidence": 1.0
+    }
+  ],
+  "round_off": 0.0,
+  "payment_method": null,
+  "line_items": [
+    {
+      "description": "SPGTHY BOLOGNASE",
+      "quantity": 1.0,
+      "unit_price": null,
+      "total": 58000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "WELL DONE",
+      "quantity": 1.0,
+      "unit_price": null,
+      "total": 165000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "MEDIUM WELL",
+      "quantity": 1.0,
+      "unit_price": null,
+      "total": 195000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "ICED LEMON TEA",
+      "quantity": 1.0,
+      "unit_price": null,
+      "total": 22000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "FUSION TEA LYCHE",
+      "quantity": 1.0,
+      "unit_price": null,
+      "total": 28000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "NUTTELA BROWNIES",
+      "quantity": 1.0,
+      "unit_price": null,
+      "total": 35000.0,
+      "category": null,
+      "confidence": 1.0
+    }
+  ],
+  "attendees": [],
+  "client_name": null,
+  "notes": null,
+  "trip_id": null,
+  "channel": "Digital",
+  "submitted_at": null,
+  "confidence_scores": {
+    "merchant": 0.99,
+    "total": 0.99,
+    "date": 0.99,
+    "line_items": 0.99
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "5852cbe48df03646524e717e987eb3d0ac329a52fd192070b5fda1222a053789"
+}

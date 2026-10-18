@@ -1,0 +1,50 @@
+{
+  "id": "REC-8612d0",
+  "employee_id": "EMP001",
+  "merchant": "CGV CINEMAS",
+  "tax_id": null,
+  "bill_no": null,
+  "date": null,
+  "time": null,
+  "city": null,
+  "country": "IDN",
+  "currency": "IDR",
+  "total": 60000.0,
+  "tax_breakdown": [
+    {
+      "name": "TAX",
+      "rate": null,
+      "amount": 5455.0,
+      "confidence": 0.95
+    }
+  ],
+  "round_off": 0.0,
+  "payment_method": "Credit Card",
+  "line_items": [
+    {
+      "description": "-TICKET CP",
+      "quantity": 2.0,
+      "unit_price": 60000.0,
+      "total": 60000.0,
+      "category": "Entertainment",
+      "confidence": 0.95
+    }
+  ],
+  "attendees": [],
+  "client_name": null,
+  "notes": "EDC CIMB NIAGA No: xx7730; TOTAL DISC $ -60.000",
+  "trip_id": null,
+  "channel": "in-store",
+  "submitted_at": null,
+  "confidence_scores": {
+    "merchant": 0.95,
+    "currency": 0.95,
+    "total": 0.98,
+    "tax_breakdown": 0.95,
+    "payment_method": 0.95,
+    "line_items": 0.92
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "8612d04b70f430f3aef07fbbd5200e382dcc4152b344cc2eff9f735f05a257c8"
+}

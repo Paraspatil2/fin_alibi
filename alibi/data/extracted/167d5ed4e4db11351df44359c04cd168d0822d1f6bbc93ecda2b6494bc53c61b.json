@@ -1,0 +1,75 @@
+{
+  "id": "REC-167d5e",
+  "employee_id": "EMP001",
+  "merchant": "BLABBER ALL DAY",
+  "tax_id": "27AAZFB5564H1ZT",
+  "bill_no": "F-8144",
+  "date": "2026-08-09",
+  "time": "22:21",
+  "city": "Mumbai",
+  "country": "India",
+  "currency": "INR",
+  "total": 1855.0,
+  "tax_breakdown": [
+    {
+      "name": "SGST",
+      "rate": 2.5,
+      "amount": 44.13,
+      "confidence": 0.99
+    },
+    {
+      "name": "CGST",
+      "rate": 2.5,
+      "amount": 44.13,
+      "confidence": 0.99
+    }
+  ],
+  "round_off": 1.74,
+  "payment_method": null,
+  "line_items": [
+    {
+      "description": "FETTUCCINE AL PESTO VEG",
+      "quantity": 1.0,
+      "unit_price": 675.0,
+      "total": 675.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "PIZZA MARGARITA",
+      "quantity": 1.0,
+      "unit_price": 795.0,
+      "total": 795.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "FLAT WHITE",
+      "quantity": 1.0,
+      "unit_price": 295.0,
+      "total": 295.0,
+      "category": "Beverage",
+      "confidence": 0.99
+    }
+  ],
+  "attendees": [],
+  "client_name": null,
+  "notes": "Table: M4-, Operator: KAGADA, KOTs: 331275, FSSAI: 11523006000057",
+  "trip_id": null,
+  "channel": "in-store",
+  "submitted_at": null,
+  "confidence_scores": {
+    "merchant": 0.99,
+    "tax_id": 0.99,
+    "bill_no": 0.99,
+    "date": 0.95,
+    "time": 0.99,
+    "city": 0.99,
+    "currency": 0.99,
+    "total": 0.99,
+    "line_items": 0.99
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "167d5ed4e4db11351df44359c04cd168d0822d1f6bbc93ecda2b6494bc53c61b"
+}

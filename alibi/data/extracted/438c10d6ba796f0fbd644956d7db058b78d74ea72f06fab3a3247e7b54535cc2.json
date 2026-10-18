@@ -1,0 +1,108 @@
+{
+  "id": "REC-438c10",
+  "employee_id": "EMP001",
+  "merchant": "The Tack Room",
+  "tax_id": null,
+  "bill_no": "36",
+  "date": "2024-04-08",
+  "time": "19:13",
+  "city": "Lincoln",
+  "country": "USA",
+  "currency": "USD",
+  "total": 124.53,
+  "tax_breakdown": [
+    {
+      "name": "Admin Fee (3.00%)",
+      "rate": 3.0,
+      "amount": 3.42,
+      "confidence": 0.99
+    },
+    {
+      "name": "Tax",
+      "rate": null,
+      "amount": 7.11,
+      "confidence": 0.99
+    }
+  ],
+  "round_off": 0.0,
+  "payment_method": null,
+  "line_items": [
+    {
+      "description": "BBQ Potato Chips",
+      "quantity": 1.0,
+      "unit_price": 7.0,
+      "total": 7.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "Diet Coke",
+      "quantity": 1.0,
+      "unit_price": 3.0,
+      "total": 3.0,
+      "category": "Beverage",
+      "confidence": 0.99
+    },
+    {
+      "description": "Trillium Fort Point",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total": 10.0,
+      "category": "Alcohol",
+      "confidence": 0.99
+    },
+    {
+      "description": "Fried Chicken Sandwich",
+      "quantity": 2.0,
+      "unit_price": 17.0,
+      "total": 34.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "Famous Duck Grilled Cheese",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total": 25.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "Mac & Cheese",
+      "quantity": 1.0,
+      "unit_price": 17.0,
+      "total": 17.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "Burger of the moment",
+      "quantity": 1.0,
+      "unit_price": 18.0,
+      "total": 18.0,
+      "category": "Food",
+      "confidence": 0.99
+    }
+  ],
+  "attendees": [],
+  "client_name": null,
+  "notes": "Table 59; Server: Griffin F",
+  "trip_id": null,
+  "channel": "in-store",
+  "submitted_at": null,
+  "confidence_scores": {
+    "merchant": 0.99,
+    "bill_no": 0.99,
+    "date": 0.99,
+    "time": 0.99,
+    "city": 0.98,
+    "country": 0.95,
+    "currency": 0.99,
+    "total": 0.99,
+    "tax_breakdown": 0.99,
+    "line_items": 0.99
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "438c10d6ba796f0fbd644956d7db058b78d74ea72f06fab3a3247e7b54535cc2"
+}

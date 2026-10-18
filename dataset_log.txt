@@ -1,0 +1,27 @@
+
+Loading: katanaml/cord
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Failed to load katanaml/cord: Dataset scripts are no longer supported, but found cord.py
+
+Loading: abdoelsayed/AMuRD
+Repo card metadata block was not found. Setting CardData to empty.
+Failed to load abdoelsayed/AMuRD: The directory at hf://datasets/abdoelsayed/AMuRD@446790ab9f1d3ccf6fd645b08331cf7caef8eeb7 doesn't contain any data files
+
+Loading: Voxel51/scanned_receipts
+Downloading data:   0%|          | 0/713 [00:00<?, ?files/s]Downloading data:   2%|▏         | 16/713 [00:00<00:05, 137.49files/s]Downloading data:  96%|█████████▌| 686/713 [00:00<00:00, 3169.44files/s]Downloading data: 100%|██████████| 713/713 [00:00<00:00, 3250.84files/s]
+Generating train split:   0%|          | 0/713 [00:00<?, ? examples/s]Generating train split:   0%|          | 0/713 [00:00<?, ? examples/s]
+Failed to load Voxel51/scanned_receipts: An error occurred while generating the dataset
+
+Loading: docjay131/receipts-ocr-dataset
+DatasetDict({
+    train: Dataset({
+        features: ['image', 'text'],
+        num_rows: 230
+    })
+})
+
+Split: train
+Columns: ['image', 'text']
+Number of rows: 230
+
+Successfully loaded: ['docjay131/receipts-ocr-dataset']

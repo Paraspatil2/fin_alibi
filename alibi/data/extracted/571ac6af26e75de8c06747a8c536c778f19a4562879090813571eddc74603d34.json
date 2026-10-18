@@ -1,0 +1,73 @@
+{
+  "id": "REC-receipt_00002",
+  "employee_id": "EMP001",
+  "merchant": "HAKAU UDANG",
+  "tax_id": null,
+  "bill_no": null,
+  "date": "2026-10-01",
+  "time": null,
+  "city": null,
+  "country": null,
+  "currency": "USD",
+  "total": 334000.0,
+  "tax_breakdown": [],
+  "round_off": 0.0,
+  "payment_method": null,
+  "line_items": [
+    {
+      "description": "HAKAU UDANG",
+      "quantity": 4.0,
+      "unit_price": null,
+      "total": 92000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "SIAO MAI BABI",
+      "quantity": 4.0,
+      "unit_price": null,
+      "total": 80000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "CEKER AYAM",
+      "quantity": 3.0,
+      "unit_price": null,
+      "total": 60000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "BAKPAO BKR C CRISPY",
+      "quantity": 2.0,
+      "unit_price": null,
+      "total": 42000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "TAHU GORENG CRISPY",
+      "quantity": 3.0,
+      "unit_price": null,
+      "total": 60000.0,
+      "category": null,
+      "confidence": 1.0
+    }
+  ],
+  "attendees": [],
+  "client_name": null,
+  "notes": null,
+  "trip_id": null,
+  "channel": "Digital",
+  "submitted_at": null,
+  "confidence_scores": {
+    "merchant": 0.99,
+    "total": 0.99,
+    "date": 0.99,
+    "line_items": 0.99
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "571ac6af26e75de8c06747a8c536c778f19a4562879090813571eddc74603d34"
+}

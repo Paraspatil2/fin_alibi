@@ -1,0 +1,68 @@
+{
+  "id": "REC-5ae788",
+  "employee_id": "EMP001",
+  "merchant": "Sadakchaap (Andheri)",
+  "tax_id": "27AAJTI1041C1ZW",
+  "bill_no": "52429",
+  "date": "2026-10-17",
+  "time": "21:08",
+  "city": "Mumbai",
+  "country": "India",
+  "currency": "INR",
+  "total": 198.0,
+  "tax_breakdown": [
+    {
+      "name": "CGST",
+      "rate": 2.5,
+      "amount": 4.7,
+      "confidence": 0.99
+    },
+    {
+      "name": "SGST",
+      "rate": 2.5,
+      "amount": 4.7,
+      "confidence": 0.99
+    }
+  ],
+  "round_off": -0.4,
+  "payment_method": "Online",
+  "line_items": [
+    {
+      "description": "Jain Special Tandoori Malai Chaap (Half)",
+      "quantity": 1.0,
+      "unit_price": 224.0,
+      "total": 224.0,
+      "category": "Food",
+      "confidence": 0.98
+    },
+    {
+      "description": "Discount Fixed",
+      "quantity": 1.0,
+      "unit_price": -35.0,
+      "total": -35.0,
+      "category": "Discount",
+      "confidence": 0.95
+    }
+  ],
+  "attendees": [],
+  "client_name": "Marmik Agrawal",
+  "notes": "Shop no 20/21 C wing Sai Kanwal Complex Near Dn Nagar Metro Station Andheri West mumbai 400053 mobile no: 8591419180; FSSAI: 1152306000054; Customer Notes: Don't send cutlery; Delivery Passcode: 0909; Swiggy Order: 251221228118042",
+  "trip_id": null,
+  "channel": "digital",
+  "submitted_at": null,
+  "confidence_scores": {
+    "merchant": 0.99,
+    "tax_id": 0.95,
+    "bill_no": 0.99,
+    "date": 0.99,
+    "time": 0.99,
+    "city": 0.98,
+    "country": 0.95,
+    "currency": 0.99,
+    "total": 0.99,
+    "line_items": 0.97
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "5ae7888f3c8880761d98d708c4dcc6456a98da612dc0b03748a3a63a4a9fb2e0"
+}

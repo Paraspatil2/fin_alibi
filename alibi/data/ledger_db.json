@@ -1,0 +1,92 @@
+[
+  {
+    "employee_id": "EMP001",
+    "date": "2024-10-18",
+    "receipt_id": "REC-76fe5c",
+    "category": "Meals & Entertainment",
+    "amount": 529.0,
+    "currency": "INR",
+    "base_amount": 6.348,
+    "status": "MANUAL_REVIEW"
+  },
+  {
+    "employee_id": "EMP001",
+    "date": "2026-10-17",
+    "receipt_id": "REC-5ae788",
+    "category": "Meals & Entertainment",
+    "amount": 198.0,
+    "currency": "INR",
+    "base_amount": 2.376,
+    "status": "APPROVE"
+  },
+  {
+    "employee_id": "EMP001",
+    "date": "2026-10-18",
+    "receipt_id": "REC-UNIQUE-001",
+    "category": "Meals",
+    "amount": 50.0,
+    "currency": "USD",
+    "base_amount": 50.0,
+    "status": "APPROVE"
+  },
+  {
+    "employee_id": "EMP001",
+    "date": "2026-10-17",
+    "receipt_id": "REC-5ae788",
+    "category": "Corporate Expense",
+    "amount": 198.0,
+    "currency": "INR",
+    "base_amount": 2.376,
+    "status": "APPROVE"
+  },
+  {
+    "employee_id": "EMP001",
+    "date": "2026-10-17",
+    "receipt_id": "REC-5ae788",
+    "category": "Corporate Expense",
+    "amount": 198.0,
+    "currency": "INR",
+    "base_amount": 2.376,
+    "status": "APPROVE"
+  },
+  {
+    "employee_id": "EMP001",
+    "date": "2026-10-17",
+    "receipt_id": "REC-5ae788",
+    "category": "Corporate Expense",
+    "amount": 198.0,
+    "currency": "INR",
+    "base_amount": 2.376,
+    "status": "APPROVE"
+  },
+  {
+    "employee_id": "EMP001",
+    "date": "2026-10-17",
+    "receipt_id": "REC-5ae788",
+    "category": "Corporate Expense",
+    "amount": 198.0,
+    "currency": "INR",
+    "base_amount": 2.376,
+    "status": "APPROVE"
+  },
+  {
+    "employee_id": "EMP001",
+    "date": "2026-10-17",
+    "receipt_id": "REC-5ae788",
+    "category": "Corporate Expense",
+    "amount": 198.0,
+    "currency": "INR",
+    "base_amount": 2.376,
+    "status": "APPROVE"
+  },
+  {
+    "employee_id": "EMP001",
+    "date": "2026-10-17",
+    "receipt_id": "REC-5ae788",
+    "category": "Expense",
+    "amount": 198.0,
+    "currency": "INR",
+    "base_amount": 2.376,
+    "status": "APPROVE"
+  }
+]

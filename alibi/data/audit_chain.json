@@ -1,0 +1,2432 @@
+[
+  {
+    "index": 0,
+    "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "5b62dd4bd1ce9baa97db0b8e34052d44d34545515b336c2d252264fa50ac70f2"
+  },
+  {
+    "index": 1,
+    "prev_hash": "5b62dd4bd1ce9baa97db0b8e34052d44d34545515b336c2d252264fa50ac70f2",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "00ba6296ad936ed1af78385a79e84e824944ae74b880369cc0f6e73070953543"
+  },
+  {
+    "index": 2,
+    "prev_hash": "00ba6296ad936ed1af78385a79e84e824944ae74b880369cc0f6e73070953543",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "d68f19e67443fd7c22aa7cdf6af0532501ad3f2fcf3df56dc44fbd3ae56331b8"
+  },
+  {
+    "index": 3,
+    "prev_hash": "d68f19e67443fd7c22aa7cdf6af0532501ad3f2fcf3df56dc44fbd3ae56331b8",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "b32e6fc0a7247806e15c00c846ec476fabfeec41da1420f5c4d67ce4a6091f67"
+  },
+  {
+    "index": 4,
+    "prev_hash": "b32e6fc0a7247806e15c00c846ec476fabfeec41da1420f5c4d67ce4a6091f67",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "8c1f40a306104c1fa70e03bb388b57ed9a8ff24e0376d3c8f04baec042035c51"
+  },
+  {
+    "index": 5,
+    "prev_hash": "8c1f40a306104c1fa70e03bb388b57ed9a8ff24e0376d3c8f04baec042035c51",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "cdaf580dd0503cf2c1321751c5659a5c73b1b3e6923fa3db8f6001ec857b471d"
+  },
+  {
+    "index": 6,
+    "prev_hash": "cdaf580dd0503cf2c1321751c5659a5c73b1b3e6923fa3db8f6001ec857b471d",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "cd245dcc8f0ebb60689de6ef0ae08904b9d802653beb48eda3e6405ac78fe10c"
+  },
+  {
+    "index": 7,
+    "prev_hash": "cd245dcc8f0ebb60689de6ef0ae08904b9d802653beb48eda3e6405ac78fe10c",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "b6e8b904876e3c4b0ca2a96567916bb3e72e79327c9a34ac6d978f00d044067b"
+  },
+  {
+    "index": 8,
+    "prev_hash": "b6e8b904876e3c4b0ca2a96567916bb3e72e79327c9a34ac6d978f00d044067b",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "9a77138fee669e618d2b6d39637e04b140bd5e274563316d2d28f856c208cba3"
+  },
+  {
+    "index": 9,
+    "prev_hash": "9a77138fee669e618d2b6d39637e04b140bd5e274563316d2d28f856c208cba3",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "bd193d6696ff4f2e192fd732f3d06456f4d2742a27c3e83221fc03d50154f8bc"
+  },
+  {
+    "index": 10,
+    "prev_hash": "bd193d6696ff4f2e192fd732f3d06456f4d2742a27c3e83221fc03d50154f8bc",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "64771d6f0709609b37ef437589f6465c4acaac962d0ef27d7e927d5e14c7bb8b"
+  },
+  {
+    "index": 11,
+    "prev_hash": "64771d6f0709609b37ef437589f6465c4acaac962d0ef27d7e927d5e14c7bb8b",
+    "action": "EXPENSE_AUDITED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 529.0,
+      "excluded_amount": 0.0,
+      "file_sha256": "76fe5c81b50fdbdafa83051ab5e0d98a8e498051b8f364e07689bed77152f66e"
+    },
+    "current_hash": "55e4d4bf2990b5fab19dbf6f021c096cb0d8f0596f2891f5af4f9560ff93db75"
+  },
+  {
+    "index": 12,
+    "prev_hash": "55e4d4bf2990b5fab19dbf6f021c096cb0d8f0596f2891f5af4f9560ff93db75",
+    "action": "EXPENSE_AUDITED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 198.0,
+      "excluded_amount": 0.0,
+      "file_sha256": "5ae7888f3c8880761d98d708c4dcc6456a98da612dc0b03748a3a63a4a9fb2e0"
+    },
+    "current_hash": "0b03b49b40eb6f16423c4449e99b4570d1935b07737083cf8febd4ef1289de84"
+  },
+  {
+    "index": 13,
+    "prev_hash": "0b03b49b40eb6f16423c4449e99b4570d1935b07737083cf8febd4ef1289de84",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "55231d640f259e18dbafa2466cc154c8361a43ac146510ced4741017ad46ab75"
+  },
+  {
+    "index": 14,
+    "prev_hash": "55231d640f259e18dbafa2466cc154c8361a43ac146510ced4741017ad46ab75",
+    "action": "EXPENSE_AUDITED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 529.0,
+      "excluded_amount": 0.0,
+      "file_sha256": "76fe5c81b50fdbdafa83051ab5e0d98a8e498051b8f364e07689bed77152f66e"
+    },
+    "current_hash": "f4137782478ee033cd788e53ecf5fd735ed93b0d09176510e664f581c8f2be6d"
+  },
+  {
+    "index": 15,
+    "prev_hash": "f4137782478ee033cd788e53ecf5fd735ed93b0d09176510e664f581c8f2be6d",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "de10a8d137f7d1ea64650f2b76462c31c69ee594f58a69d084c501a32463f61f"
+  },
+  {
+    "index": 16,
+    "prev_hash": "de10a8d137f7d1ea64650f2b76462c31c69ee594f58a69d084c501a32463f61f",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "bc733f95fec52e6eab285cb7c5e752947165d30d7b8093bec522865a7dc2d2d9"
+  },
+  {
+    "index": 17,
+    "prev_hash": "bc733f95fec52e6eab285cb7c5e752947165d30d7b8093bec522865a7dc2d2d9",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "cf0d4bb7a4ea21a851f500c21c66ac4bc1e4925c064d0bad43e508bcd1e01624"
+  },
+  {
+    "index": 18,
+    "prev_hash": "cf0d4bb7a4ea21a851f500c21c66ac4bc1e4925c064d0bad43e508bcd1e01624",
+    "action": "EXPENSE_AUDITED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "date": "2026-10-17",
+      "tax_id": "27AAJTI1041C1ZW",
+      "bill_no": "52429",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 198.0,
+      "excluded_amount": 0.0,
+      "file_sha256": "5ae7888f3c8880761d98d708c4dcc6456a98da612dc0b03748a3a63a4a9fb2e0"
+    },
+    "current_hash": "51f4f93264a0d63955a0fa1edafa006e277430ca80831da88a4e1bcb17d6ac20"
+  },
+  {
+    "index": 19,
+    "prev_hash": "51f4f93264a0d63955a0fa1edafa006e277430ca80831da88a4e1bcb17d6ac20",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "e5ca7482e4b5accd7de580ef0920e43a602292ac44c559a4349191d24b81e3dd"
+  },
+  {
+    "index": 20,
+    "prev_hash": "e5ca7482e4b5accd7de580ef0920e43a602292ac44c559a4349191d24b81e3dd",
+    "action": "EXPENSE_AUDITED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "date": "2026-10-17",
+      "tax_id": "27AAJTI1041C1ZW",
+      "bill_no": "52429",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 198.0,
+      "excluded_amount": 0.0,
+      "file_sha256": "5ae7888f3c8880761d98d708c4dcc6456a98da612dc0b03748a3a63a4a9fb2e0"
+    },
+    "current_hash": "ad672414962822b99f7be177e19995fea31b914b6e3085795e23efbaf1b4b0b1"
+  },
+  {
+    "index": 21,
+    "prev_hash": "ad672414962822b99f7be177e19995fea31b914b6e3085795e23efbaf1b4b0b1",
+    "action": "EXPENSE_AUDITED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "date": "2026-10-17",
+      "tax_id": "27AAJTI1041C1ZW",
+      "bill_no": "52429",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 198.0,
+      "excluded_amount": 0.0,
+      "file_sha256": "5ae7888f3c8880761d98d708c4dcc6456a98da612dc0b03748a3a63a4a9fb2e0"
+    },
+    "current_hash": "bccbe057c84f280cd1da6fa44845c2fd9f051ef888678d70e83dac2da563dfcb"
+  },
+  {
+    "index": 22,
+    "prev_hash": "bccbe057c84f280cd1da6fa44845c2fd9f051ef888678d70e83dac2da563dfcb",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "f427e22462e5f0f27fea8619a6cbb08cd9f0f110d6a5c60c0a5e0481606a451e"
+  },
+  {
+    "index": 23,
+    "prev_hash": "f427e22462e5f0f27fea8619a6cbb08cd9f0f110d6a5c60c0a5e0481606a451e",
+    "action": "EXPENSE_AUDITED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "date": "2026-10-17",
+      "tax_id": "27AAJTI1041C1ZW",
+      "bill_no": "52429",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 198.0,
+      "excluded_amount": 0.0,
+      "file_sha256": "5ae7888f3c8880761d98d708c4dcc6456a98da612dc0b03748a3a63a4a9fb2e0"
+    },
+    "current_hash": "f2ad8ee2fa9eee4f8ce206669de743f92809236038aab2aed202949af004a267"
+  },
+  {
+    "index": 24,
+    "prev_hash": "f2ad8ee2fa9eee4f8ce206669de743f92809236038aab2aed202949af004a267",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "c8eb3cd0a65f0500cec928c3b6070327be6d88f83e54dee6e2f9a23980a76a3b"
+  },
+  {
+    "index": 25,
+    "prev_hash": "c8eb3cd0a65f0500cec928c3b6070327be6d88f83e54dee6e2f9a23980a76a3b",
+    "action": "EXPENSE_AUDITED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "date": "2026-10-17",
+      "tax_id": "27AAJTI1041C1ZW",
+      "bill_no": "52429",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 198.0,
+      "excluded_amount": 0.0,
+      "file_sha256": "5ae7888f3c8880761d98d708c4dcc6456a98da612dc0b03748a3a63a4a9fb2e0"
+    },
+    "current_hash": "b06e5df7fca5fa8b665165692048e6209c88e08a722504c66d652c7b3bca71bc"
+  },
+  {
+    "index": 26,
+    "prev_hash": "b06e5df7fca5fa8b665165692048e6209c88e08a722504c66d652c7b3bca71bc",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "f593db41c513161bee1bf9890bd87e5911a93af0fd8b68d7a7b37f5412225aa8"
+  },
+  {
+    "index": 27,
+    "prev_hash": "f593db41c513161bee1bf9890bd87e5911a93af0fd8b68d7a7b37f5412225aa8",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "56b5f533fa3e1a4b56017f392faea705dba70127df4c5efa8e49de5df3088c66"
+  },
+  {
+    "index": 28,
+    "prev_hash": "56b5f533fa3e1a4b56017f392faea705dba70127df4c5efa8e49de5df3088c66",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "291e6fc78f4d3d0a9c70edbda131aa4af638644ed95d939d545b8e6e2084d254"
+  },
+  {
+    "index": 29,
+    "prev_hash": "291e6fc78f4d3d0a9c70edbda131aa4af638644ed95d939d545b8e6e2084d254",
+    "action": "EXPENSE_AUDITED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 198.0,
+      "file_sha256": "5ae7888f3c8880761d98d708c4dcc6456a98da612dc0b03748a3a63a4a9fb2e0"
+    },
+    "current_hash": "95030f8b06c853c0770e42a14842e5c226fbd3d4a078b9619f1a7fd02a2df757"
+  },
+  {
+    "index": 30,
+    "prev_hash": "95030f8b06c853c0770e42a14842e5c226fbd3d4a078b9619f1a7fd02a2df757",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "e0e3b38242bb4d511f396b66a729976ef1b9c9694557ed70d8d3ec2fc46b864c"
+  },
+  {
+    "index": 31,
+    "prev_hash": "e0e3b38242bb4d511f396b66a729976ef1b9c9694557ed70d8d3ec2fc46b864c",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "96df0163e8e0a0ed131627ca543698582f82404a7e497c4259e89a03b9b424b7"
+  },
+  {
+    "index": 32,
+    "prev_hash": "96df0163e8e0a0ed131627ca543698582f82404a7e497c4259e89a03b9b424b7",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "172ffc607d3b3b0e5aabad3b28941ff4a55bcfd8824ec3e9a1da73dadcbb4d3e"
+  },
+  {
+    "index": 33,
+    "prev_hash": "172ffc607d3b3b0e5aabad3b28941ff4a55bcfd8824ec3e9a1da73dadcbb4d3e",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "eeeb751e47e37a1a2bb933b47635b940a769598eec9e0ba12155c3a1a0b890f1"
+  },
+  {
+    "index": 34,
+    "prev_hash": "eeeb751e47e37a1a2bb933b47635b940a769598eec9e0ba12155c3a1a0b890f1",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "1a3cf0f9b51afaa89ed1c298496349fc2fc973b9f4354f1263263ac309594825"
+  },
+  {
+    "index": 35,
+    "prev_hash": "1a3cf0f9b51afaa89ed1c298496349fc2fc973b9f4354f1263263ac309594825",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "7b66442504656cec28980575cbca97a1ef076f0dc9a79ae13e427b54ec64bafc"
+  },
+  {
+    "index": 36,
+    "prev_hash": "7b66442504656cec28980575cbca97a1ef076f0dc9a79ae13e427b54ec64bafc",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "fe5cf2fa2c0588488712d1228d7d9f7fd85234c84c3dee4f6ad6cb487b52974f"
+  },
+  {
+    "index": 37,
+    "prev_hash": "fe5cf2fa2c0588488712d1228d7d9f7fd85234c84c3dee4f6ad6cb487b52974f",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "dfbc856e9aa8fe04f81f159fb04abd5bf231437f29bc6865da2175e01f60e41f"
+  },
+  {
+    "index": 38,
+    "prev_hash": "dfbc856e9aa8fe04f81f159fb04abd5bf231437f29bc6865da2175e01f60e41f",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "4e59b31a596d5eba071acfb01a0da11b24ccdc83ee337db0bb5801a37b32d371"
+  },
+  {
+    "index": 39,
+    "prev_hash": "4e59b31a596d5eba071acfb01a0da11b24ccdc83ee337db0bb5801a37b32d371",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "f237a5e6383d7c411bf49967f0ade8770919a9bd26738d082fddf7cff164395a"
+  },
+  {
+    "index": 40,
+    "prev_hash": "f237a5e6383d7c411bf49967f0ade8770919a9bd26738d082fddf7cff164395a",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "0791490a1a3cce3526a1ae43f84275e27d7c8b66bd9a72305623d66b940a0936"
+  },
+  {
+    "index": 41,
+    "prev_hash": "0791490a1a3cce3526a1ae43f84275e27d7c8b66bd9a72305623d66b940a0936",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "d53c49f0701223fc2a4ebe27f29a03f9067698694e2ebe45eaeb0ac41863e920"
+  },
+  {
+    "index": 42,
+    "prev_hash": "d53c49f0701223fc2a4ebe27f29a03f9067698694e2ebe45eaeb0ac41863e920",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "c07830a037b1d25738ad66b6bf9aa536f9605789202fb26dc8d11acfd681929a"
+  },
+  {
+    "index": 43,
+    "prev_hash": "c07830a037b1d25738ad66b6bf9aa536f9605789202fb26dc8d11acfd681929a",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "d78cf296c69b0095c0d04f5d8c8cc3c7da5e3c04cbc9241b35fe1415381f57d4"
+  },
+  {
+    "index": 44,
+    "prev_hash": "d78cf296c69b0095c0d04f5d8c8cc3c7da5e3c04cbc9241b35fe1415381f57d4",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "4672889d2546ad6954bdcb8d84884a4b3ca69c639c70e8102038675c6ea60a25"
+  },
+  {
+    "index": 45,
+    "prev_hash": "4672889d2546ad6954bdcb8d84884a4b3ca69c639c70e8102038675c6ea60a25",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "fd6af32ab9e629407dd57554751274449fadd4665425f20c8953062c2737c886"
+  },
+  {
+    "index": 46,
+    "prev_hash": "fd6af32ab9e629407dd57554751274449fadd4665425f20c8953062c2737c886",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "a75fe7f845cc15b7b2294deea76e28e6ee8eefc987ecbe2e4f501ef269e4ba21"
+  },
+  {
+    "index": 47,
+    "prev_hash": "a75fe7f845cc15b7b2294deea76e28e6ee8eefc987ecbe2e4f501ef269e4ba21",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "bf88043c2fb89bedcf3f7b33109871f759a1205339a7de730675dd57ab95daef"
+  },
+  {
+    "index": 48,
+    "prev_hash": "bf88043c2fb89bedcf3f7b33109871f759a1205339a7de730675dd57ab95daef",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "7a9a46682d7d71a8c34702fa4d738de4f8c077735c9a64275a47e277b5a04b28"
+  },
+  {
+    "index": 49,
+    "prev_hash": "7a9a46682d7d71a8c34702fa4d738de4f8c077735c9a64275a47e277b5a04b28",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "b123553343929d9f03e9118ecd5069d5339c70a4ead78b96abb1c49357044de8"
+  },
+  {
+    "index": 50,
+    "prev_hash": "b123553343929d9f03e9118ecd5069d5339c70a4ead78b96abb1c49357044de8",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "5790851fbfa82f60127becd0b0b3994b8b823491856574e14e690e6708399755"
+  },
+  {
+    "index": 51,
+    "prev_hash": "5790851fbfa82f60127becd0b0b3994b8b823491856574e14e690e6708399755",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "b3765cdf4af48226f3f35571c2eb0b228c575bef3c1fa2ad2c4e380bc63bc757"
+  },
+  {
+    "index": 52,
+    "prev_hash": "b3765cdf4af48226f3f35571c2eb0b228c575bef3c1fa2ad2c4e380bc63bc757",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "54b8c7b439c279e847c9fbd3589e711316ec634e737fe698c84c7936e92d4828"
+  },
+  {
+    "index": 53,
+    "prev_hash": "54b8c7b439c279e847c9fbd3589e711316ec634e737fe698c84c7936e92d4828",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "a927f4031a9ee3114215dec4588cc05c8d867b01c273e7c8f524c7d30f8e0747"
+  },
+  {
+    "index": 54,
+    "prev_hash": "a927f4031a9ee3114215dec4588cc05c8d867b01c273e7c8f524c7d30f8e0747",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "303dfa2bb51516fd3cf16487f47c0b9fadbfe7d30ebee1d8e04d1cba43336252"
+  },
+  {
+    "index": 55,
+    "prev_hash": "303dfa2bb51516fd3cf16487f47c0b9fadbfe7d30ebee1d8e04d1cba43336252",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "323d036cf254f9db1544ec7619881fc5b0a84759ef926d433ea0bed4b3838c69"
+  },
+  {
+    "index": 56,
+    "prev_hash": "323d036cf254f9db1544ec7619881fc5b0a84759ef926d433ea0bed4b3838c69",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "6b0ca84250cfe6df8b0331b399210b6ee4f2663b969c9314140fe645e648542a"
+  },
+  {
+    "index": 57,
+    "prev_hash": "6b0ca84250cfe6df8b0331b399210b6ee4f2663b969c9314140fe645e648542a",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "e650b9a3428be14f39ef80796e0fdf10eae4e628cb8e81b340e0a4e7af35b969"
+  },
+  {
+    "index": 58,
+    "prev_hash": "e650b9a3428be14f39ef80796e0fdf10eae4e628cb8e81b340e0a4e7af35b969",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "4997308dd63b10181ec7d2767b0ade3164f61fb55e97f11ebc42ec35b016f1a6"
+  },
+  {
+    "index": 59,
+    "prev_hash": "4997308dd63b10181ec7d2767b0ade3164f61fb55e97f11ebc42ec35b016f1a6",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "97881627f92b8c270d07faf4652cd2489e2c2dcbe8655c99bcc5f6285580a7c3"
+  },
+  {
+    "index": 60,
+    "prev_hash": "97881627f92b8c270d07faf4652cd2489e2c2dcbe8655c99bcc5f6285580a7c3",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "3f87d308ad8b9a4246b9f4c1f4414a13b4c4fc867843a961fbf2ea6f3dd68a21"
+  },
+  {
+    "index": 61,
+    "prev_hash": "3f87d308ad8b9a4246b9f4c1f4414a13b4c4fc867843a961fbf2ea6f3dd68a21",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "8d416d0a72deaa21532f3d80172df156084d0252eb95eb13198ad7051528bbe3"
+  },
+  {
+    "index": 62,
+    "prev_hash": "8d416d0a72deaa21532f3d80172df156084d0252eb95eb13198ad7051528bbe3",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "340fca91f6843178ebf4e9ac1892b4ce6e7674917abbeab19b0520f1beb24a0c"
+  },
+  {
+    "index": 63,
+    "prev_hash": "340fca91f6843178ebf4e9ac1892b4ce6e7674917abbeab19b0520f1beb24a0c",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "TEST-INT-01",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 500.0,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 450.0,
+      "flags_count": 5
+    },
+    "current_hash": "58a6e61c32ea3f37344cef407f5c114f3a469d983aa80727a060b497a296b2f8"
+  },
+  {
+    "index": 64,
+    "prev_hash": "58a6e61c32ea3f37344cef407f5c114f3a469d983aa80727a060b497a296b2f8",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "511559c149f3e36cae4c11b15d6150a51ddf7228b153d13159ee53ed4d1671bc"
+  },
+  {
+    "index": 65,
+    "prev_hash": "511559c149f3e36cae4c11b15d6150a51ddf7228b153d13159ee53ed4d1671bc",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "d8775282a3805fd420c44fe7c75ae188bd599475d9a972677d73974c1398cab1"
+  },
+  {
+    "index": 66,
+    "prev_hash": "d8775282a3805fd420c44fe7c75ae188bd599475d9a972677d73974c1398cab1",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "e1bd6fa9e0ea03ef840dff69ba903afa278c37042752928d7a84ed8a3439d851"
+  },
+  {
+    "index": 67,
+    "prev_hash": "e1bd6fa9e0ea03ef840dff69ba903afa278c37042752928d7a84ed8a3439d851",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "712fa36e6e01d52698f512c505cc0d968a3a42b65783b56c666d106591216652"
+  },
+  {
+    "index": 68,
+    "prev_hash": "712fa36e6e01d52698f512c505cc0d968a3a42b65783b56c666d106591216652",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "b751d2b54ddbe8111aa83edf2909c82a633042cc2353f461dc1dd01752550848"
+  },
+  {
+    "index": 69,
+    "prev_hash": "b751d2b54ddbe8111aa83edf2909c82a633042cc2353f461dc1dd01752550848",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "9da204d8ac75615ee7d1f278010583f22d2bea9a60f19aaf83b691b6ec7d8feb"
+  },
+  {
+    "index": 70,
+    "prev_hash": "9da204d8ac75615ee7d1f278010583f22d2bea9a60f19aaf83b691b6ec7d8feb",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "aad7ac639bce81b72a12f69288890e1eb54de9801a5209a0c75c4d20e09a8dd8"
+  },
+  {
+    "index": 71,
+    "prev_hash": "aad7ac639bce81b72a12f69288890e1eb54de9801a5209a0c75c4d20e09a8dd8",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "b214302c0bb4d9f21fcd6ea31752f723abdf3bfd60fd85ad6422cd650fad28e9"
+  },
+  {
+    "index": 72,
+    "prev_hash": "b214302c0bb4d9f21fcd6ea31752f723abdf3bfd60fd85ad6422cd650fad28e9",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "484e8e13ad11f82192d2697677ad0d10e37f35fc5f4c9eb6e3bdc14ba136f9de"
+  },
+  {
+    "index": 73,
+    "prev_hash": "484e8e13ad11f82192d2697677ad0d10e37f35fc5f4c9eb6e3bdc14ba136f9de",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "14196b8c9890c8527e4a4b88aec000ab7db2dc3aef9719107b0075566c6b9b4f"
+  },
+  {
+    "index": 74,
+    "prev_hash": "14196b8c9890c8527e4a4b88aec000ab7db2dc3aef9719107b0075566c6b9b4f",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "25f1ec4f88cabc4a6fb7797e79c988c82fec5c08c40a52420f06e2819b7d59ab"
+  },
+  {
+    "index": 75,
+    "prev_hash": "25f1ec4f88cabc4a6fb7797e79c988c82fec5c08c40a52420f06e2819b7d59ab",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "ca4959b4af5188e0aae082dee5c9a1a3e634d4d19942bd6067fe8f64690e0418"
+  },
+  {
+    "index": 76,
+    "prev_hash": "ca4959b4af5188e0aae082dee5c9a1a3e634d4d19942bd6067fe8f64690e0418",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "bb2ce305ffe697836418722303ddff454a1bc0b39b6e4311d2add908716c56dc"
+  },
+  {
+    "index": 77,
+    "prev_hash": "bb2ce305ffe697836418722303ddff454a1bc0b39b6e4311d2add908716c56dc",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "ea67ffec0bb9f156875ab59c31151ade32ddf952850286b9cbaf70138b2aa853"
+  },
+  {
+    "index": 78,
+    "prev_hash": "ea67ffec0bb9f156875ab59c31151ade32ddf952850286b9cbaf70138b2aa853",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "520d27d90684972c630b9d8f58174d0f4b99b45195ffd058416daa0293e04139"
+  },
+  {
+    "index": 79,
+    "prev_hash": "520d27d90684972c630b9d8f58174d0f4b99b45195ffd058416daa0293e04139",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "3670daf9fbb2767db1080e0fab6dd1667ef66c37e25b5b3bfcc8e93a8741b290"
+  },
+  {
+    "index": 80,
+    "prev_hash": "3670daf9fbb2767db1080e0fab6dd1667ef66c37e25b5b3bfcc8e93a8741b290",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "1d417f6e804cffc26c294dcf1d8726b0f21a852839dd9f7cd9d24d34eb43221e"
+  },
+  {
+    "index": 81,
+    "prev_hash": "1d417f6e804cffc26c294dcf1d8726b0f21a852839dd9f7cd9d24d34eb43221e",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "dee1da744c366e3e30bbb3129b79df80326c16e7cbcedf52a70f7505d9a1e777"
+  },
+  {
+    "index": 82,
+    "prev_hash": "dee1da744c366e3e30bbb3129b79df80326c16e7cbcedf52a70f7505d9a1e777",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "608abd4af4321467cbbf37983c0940d24208f170ec02f368c489cccd6c121fba"
+  },
+  {
+    "index": 83,
+    "prev_hash": "608abd4af4321467cbbf37983c0940d24208f170ec02f368c489cccd6c121fba",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "5fd70d16a2827aeb65cef5b028247181fb3c505ad714da92e8c773bf09c5de5f"
+  },
+  {
+    "index": 84,
+    "prev_hash": "5fd70d16a2827aeb65cef5b028247181fb3c505ad714da92e8c773bf09c5de5f",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "843c9ae2d7692bf0705df48f9c85e5b4fdf7cc2b14b81061de92d23222be39c9"
+  },
+  {
+    "index": 85,
+    "prev_hash": "843c9ae2d7692bf0705df48f9c85e5b4fdf7cc2b14b81061de92d23222be39c9",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "5f174d9035b431c9119055ea0860c6f7ac87c90882d6831cd333a714c33835c4"
+  },
+  {
+    "index": 86,
+    "prev_hash": "5f174d9035b431c9119055ea0860c6f7ac87c90882d6831cd333a714c33835c4",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "00167d9e21d1faa991c47006040fe4c5df6627a2116f18d573020e1bfa1dae54"
+  },
+  {
+    "index": 87,
+    "prev_hash": "00167d9e21d1faa991c47006040fe4c5df6627a2116f18d573020e1bfa1dae54",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 1
+    },
+    "current_hash": "f5f05311360facf9be4fcbb4d9d41a1405840fb67e0ee95cb1cc69b35cb2fe80"
+  },
+  {
+    "index": 88,
+    "prev_hash": "f5f05311360facf9be4fcbb4d9d41a1405840fb67e0ee95cb1cc69b35cb2fe80",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 1
+    },
+    "current_hash": "d364c8fb321c887bc06308fff0289eb65e9dc78b70bc61fb5cf6679dde8e8b07"
+  },
+  {
+    "index": 89,
+    "prev_hash": "d364c8fb321c887bc06308fff0289eb65e9dc78b70bc61fb5cf6679dde8e8b07",
+    "action": "RECEIPT_COMMITTED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "total": 198.0
+    },
+    "current_hash": "37a5a717727e5c4852f0b8d90c686a2eb91490251507b1c39aae9f6ae6f7c976"
+  },
+  {
+    "index": 90,
+    "prev_hash": "37a5a717727e5c4852f0b8d90c686a2eb91490251507b1c39aae9f6ae6f7c976",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "6866906255662b051edf7815e0620543f7b0bc2d12dac7446f7f1a82099b2bde"
+  },
+  {
+    "index": 91,
+    "prev_hash": "6866906255662b051edf7815e0620543f7b0bc2d12dac7446f7f1a82099b2bde",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "241421351bb1195bb78fe484513472031eac09cf8721d00d35feb18bba6ffd4e"
+  },
+  {
+    "index": 92,
+    "prev_hash": "241421351bb1195bb78fe484513472031eac09cf8721d00d35feb18bba6ffd4e",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "ac93263703be6540f1ab6411f98df93d84806d4ad03c8208893df3e8169dd983"
+  },
+  {
+    "index": 93,
+    "prev_hash": "ac93263703be6540f1ab6411f98df93d84806d4ad03c8208893df3e8169dd983",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "04fa2975142919b4a80050a704c7c88884bbfbcc37ee63e2c168463c933ff249"
+  },
+  {
+    "index": 94,
+    "prev_hash": "04fa2975142919b4a80050a704c7c88884bbfbcc37ee63e2c168463c933ff249",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "b20934021b58e0ca5eb1ab303ddea1943d725b6f37faf106b68737f22553fa66"
+  },
+  {
+    "index": 95,
+    "prev_hash": "b20934021b58e0ca5eb1ab303ddea1943d725b6f37faf106b68737f22553fa66",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "194405b6946715bf223dc57e9725c1909fa02b16dc68c2701dc58eed641b8dde"
+  },
+  {
+    "index": 96,
+    "prev_hash": "194405b6946715bf223dc57e9725c1909fa02b16dc68c2701dc58eed641b8dde",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "173a11dafbfdc5b63f8772862ef1e2a19a748acf315248ba4067cace4093ffe3"
+  },
+  {
+    "index": 97,
+    "prev_hash": "173a11dafbfdc5b63f8772862ef1e2a19a748acf315248ba4067cace4093ffe3",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "de87583c3df5226edf02f6ed6b93c3aeca9f1aa11cd8a5df0b3569d8f1b8eacf"
+  },
+  {
+    "index": 98,
+    "prev_hash": "de87583c3df5226edf02f6ed6b93c3aeca9f1aa11cd8a5df0b3569d8f1b8eacf",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "a640b90a67611f98f23a9af0ee87650696546d657bc97641e6e7e02cba690fe6"
+  },
+  {
+    "index": 99,
+    "prev_hash": "a640b90a67611f98f23a9af0ee87650696546d657bc97641e6e7e02cba690fe6",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "6b99c86483ede7119290f8046bdfe078e8bf6e6109383331246e46b0fda66200"
+  },
+  {
+    "index": 100,
+    "prev_hash": "6b99c86483ede7119290f8046bdfe078e8bf6e6109383331246e46b0fda66200",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "de960669771fe852e60a6f7663b20fe9d6acec69440d5a97447d903048ddb72a"
+  },
+  {
+    "index": 101,
+    "prev_hash": "de960669771fe852e60a6f7663b20fe9d6acec69440d5a97447d903048ddb72a",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "008dbd47d0502ca886bba76ec794a88535a7afaac9c366c501ebd0bddb462ede"
+  },
+  {
+    "index": 102,
+    "prev_hash": "008dbd47d0502ca886bba76ec794a88535a7afaac9c366c501ebd0bddb462ede",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "1620d9f138ed19256a1e944f9f1e97d3d7eb6a06211da7dbfc736c7fe4aa4942"
+  },
+  {
+    "index": 103,
+    "prev_hash": "1620d9f138ed19256a1e944f9f1e97d3d7eb6a06211da7dbfc736c7fe4aa4942",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "916a396d3d097e1698e4823bc9401e3f63a2a71d78556848d9f07d785d4608cc"
+  },
+  {
+    "index": 104,
+    "prev_hash": "916a396d3d097e1698e4823bc9401e3f63a2a71d78556848d9f07d785d4608cc",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "c9860199a38a49c864e2c49d920cc32fd1b07f5509325f8fc5a366a725081128"
+  },
+  {
+    "index": 105,
+    "prev_hash": "c9860199a38a49c864e2c49d920cc32fd1b07f5509325f8fc5a366a725081128",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "55735ab67f86001fc74dbad40540a07efdfedb4d23b0b38c04428e527fb21ca7"
+  },
+  {
+    "index": 106,
+    "prev_hash": "55735ab67f86001fc74dbad40540a07efdfedb4d23b0b38c04428e527fb21ca7",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP002",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 3938.0,
+      "flags_count": 1
+    },
+    "current_hash": "6630a2f39d1ec50f34612d3c3b185a0b4e0e3f9a92df4fdb11ebb094e1d5ffc7"
+  },
+  {
+    "index": 107,
+    "prev_hash": "6630a2f39d1ec50f34612d3c3b185a0b4e0e3f9a92df4fdb11ebb094e1d5ffc7",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP002",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 3938.0,
+      "flags_count": 1
+    },
+    "current_hash": "7de04b981f50b5a7cf29cd39b9661ec0ada4276443d874efa5daa731e69406be"
+  },
+  {
+    "index": 108,
+    "prev_hash": "7de04b981f50b5a7cf29cd39b9661ec0ada4276443d874efa5daa731e69406be",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "e95d571ecc81e7aa45f4d4f4e389d746cc0a34bb97170a4f6f200c70fe97654c"
+  },
+  {
+    "index": 109,
+    "prev_hash": "e95d571ecc81e7aa45f4d4f4e389d746cc0a34bb97170a4f6f200c70fe97654c",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP002",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 3938.0,
+      "flags_count": 1
+    },
+    "current_hash": "6202167024f01af898862099b6997bcc616ab57dd77cdb25340f8bed5cce7503"
+  },
+  {
+    "index": 110,
+    "prev_hash": "6202167024f01af898862099b6997bcc616ab57dd77cdb25340f8bed5cce7503",
+    "action": "RECEIPT_COMMITTED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "total": 4575.0
+    },
+    "current_hash": "d0fdabfc9bfb8e3276064946e1b689245f8b9d7fbdf75a846cbf0f8429098b4b"
+  },
+  {
+    "index": 111,
+    "prev_hash": "d0fdabfc9bfb8e3276064946e1b689245f8b9d7fbdf75a846cbf0f8429098b4b",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "45d21dfe7717e5c0d592dff31f49237649b08619be898946ea85342d77f24e7b"
+  },
+  {
+    "index": 112,
+    "prev_hash": "45d21dfe7717e5c0d592dff31f49237649b08619be898946ea85342d77f24e7b",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "7f980c0f8b20d44a0541b02741bf09cde8961e18ee22880e85c7828d71ec2c8b"
+  },
+  {
+    "index": 113,
+    "prev_hash": "7f980c0f8b20d44a0541b02741bf09cde8961e18ee22880e85c7828d71ec2c8b",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "ac5f7d45fcce5665e968a65e3a2ce276029c679c39b5e2d5835066891608949a"
+  },
+  {
+    "index": 114,
+    "prev_hash": "ac5f7d45fcce5665e968a65e3a2ce276029c679c39b5e2d5835066891608949a",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 1
+    },
+    "current_hash": "57ac08e0e0fef43ae58916c04369721865182e2dfa9bfb6c509ecf984a89e293"
+  },
+  {
+    "index": 115,
+    "prev_hash": "57ac08e0e0fef43ae58916c04369721865182e2dfa9bfb6c509ecf984a89e293",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "589fd87b4c11b9803bcc6dfbd4f6de9df2c40213de0e7b7daae5661348827d18"
+  },
+  {
+    "index": 116,
+    "prev_hash": "589fd87b4c11b9803bcc6dfbd4f6de9df2c40213de0e7b7daae5661348827d18",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "f0250f13251d2e3d50b30e9069e9f479c607280fa823afa71275923418b50020"
+  },
+  {
+    "index": 117,
+    "prev_hash": "f0250f13251d2e3d50b30e9069e9f479c607280fa823afa71275923418b50020",
+    "action": "RECEIPT_COMMITTED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "total": 4575.0
+    },
+    "current_hash": "c341e72759142a39f7acd1226ca17951229999f774e4ecb6f5b5f592d2067e16"
+  },
+  {
+    "index": 118,
+    "prev_hash": "c341e72759142a39f7acd1226ca17951229999f774e4ecb6f5b5f592d2067e16",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "c8cbee17db87afc6ce3c8f18ce797caa4d4fc4e0a2666fc696684ea5d38d138f"
+  },
+  {
+    "index": 119,
+    "prev_hash": "c8cbee17db87afc6ce3c8f18ce797caa4d4fc4e0a2666fc696684ea5d38d138f",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "1649f422c6b1364d9db431151e68b847c095e1141cedce2eb1e5970e69d6c1c0"
+  },
+  {
+    "index": 120,
+    "prev_hash": "1649f422c6b1364d9db431151e68b847c095e1141cedce2eb1e5970e69d6c1c0",
+    "action": "RECEIPT_COMMITTED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "total": 4575.0
+    },
+    "current_hash": "d284a2db1b0f85f7757ce753641cc06fcec582f1f06546d16bbb96c102f0e39b"
+  },
+  {
+    "index": 121,
+    "prev_hash": "d284a2db1b0f85f7757ce753641cc06fcec582f1f06546d16bbb96c102f0e39b",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 1
+    },
+    "current_hash": "09d7c28a0c39107435981ce719fb28e8990623fc26f5c6b29e33124890f92d43"
+  },
+  {
+    "index": 122,
+    "prev_hash": "09d7c28a0c39107435981ce719fb28e8990623fc26f5c6b29e33124890f92d43",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "7e143d60c7b7111ecd85c668f1ce6c83bebf8735b10d07f2fc4757bb349cb2d4"
+  },
+  {
+    "index": 123,
+    "prev_hash": "7e143d60c7b7111ecd85c668f1ce6c83bebf8735b10d07f2fc4757bb349cb2d4",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "4cfb65817e41184268dfb8229dd5d8c69cf652989d437d487c0fab5dc5e3bc35"
+  },
+  {
+    "index": 124,
+    "prev_hash": "4cfb65817e41184268dfb8229dd5d8c69cf652989d437d487c0fab5dc5e3bc35",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "5eca90559bc27b42d9927eeadb5fc854b6f09991946d369af55e221426bc2bf9"
+  },
+  {
+    "index": 125,
+    "prev_hash": "5eca90559bc27b42d9927eeadb5fc854b6f09991946d369af55e221426bc2bf9",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "88058981b7f299a13a01ae71c317757222004d334666068c093839120c9778bd"
+  },
+  {
+    "index": 126,
+    "prev_hash": "88058981b7f299a13a01ae71c317757222004d334666068c093839120c9778bd",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "27d519fa8102d6c99292cda04eb7c72f82b1c84632754ca1a176a43ff6d21133"
+  },
+  {
+    "index": 127,
+    "prev_hash": "27d519fa8102d6c99292cda04eb7c72f82b1c84632754ca1a176a43ff6d21133",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "3231374e23d7a3383c85248aa10b5f5139be40ef67703f5f4d64e93aee3b158c"
+  },
+  {
+    "index": 128,
+    "prev_hash": "3231374e23d7a3383c85248aa10b5f5139be40ef67703f5f4d64e93aee3b158c",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "d5c892372077621b5c19b80ca226f12a069711645c98a75e7825c431cdadfb02"
+  },
+  {
+    "index": 129,
+    "prev_hash": "d5c892372077621b5c19b80ca226f12a069711645c98a75e7825c431cdadfb02",
+    "action": "RECEIPT_COMMITTED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "total": 4575.0
+    },
+    "current_hash": "f2199df0ca706557a4002d6ececaf4ea126b08a2bf1cd1fea54123e290e8c577"
+  },
+  {
+    "index": 130,
+    "prev_hash": "f2199df0ca706557a4002d6ececaf4ea126b08a2bf1cd1fea54123e290e8c577",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 1
+    },
+    "current_hash": "da5480ce81529bc80c44cf04f140769b5b0f4dc11e7b5caf38d7b97eb12cbed4"
+  },
+  {
+    "index": 131,
+    "prev_hash": "da5480ce81529bc80c44cf04f140769b5b0f4dc11e7b5caf38d7b97eb12cbed4",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "308f723c5ad2d1da3af6d42931c96d1f769fb90db07ce21505ffe9d8d54f6956"
+  },
+  {
+    "index": 132,
+    "prev_hash": "308f723c5ad2d1da3af6d42931c96d1f769fb90db07ce21505ffe9d8d54f6956",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "3594aaa86837308f5bb2eb4c45f8b3dc029f4616ea9ea9966ff869fcad0b5698"
+  },
+  {
+    "index": 133,
+    "prev_hash": "3594aaa86837308f5bb2eb4c45f8b3dc029f4616ea9ea9966ff869fcad0b5698",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "d91dd014d3312fd68ae667e5bbec129a755baca848fb9b0de53354e1706507a5"
+  },
+  {
+    "index": 134,
+    "prev_hash": "d91dd014d3312fd68ae667e5bbec129a755baca848fb9b0de53354e1706507a5",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "93d9cc40fb87755767ef0463114e37d3cd929726546f7bed04401713f9d070e4"
+  },
+  {
+    "index": 135,
+    "prev_hash": "93d9cc40fb87755767ef0463114e37d3cd929726546f7bed04401713f9d070e4",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "005011f2e0ac2a0670473d10f4aa456788051869c2d58444a250cf23daa9fcde"
+  },
+  {
+    "index": 136,
+    "prev_hash": "005011f2e0ac2a0670473d10f4aa456788051869c2d58444a250cf23daa9fcde",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "48fecdb1102990711e42bdb2e0accdc73bb70b9bf4ed5064e8d46cc32b7473c4"
+  },
+  {
+    "index": 137,
+    "prev_hash": "48fecdb1102990711e42bdb2e0accdc73bb70b9bf4ed5064e8d46cc32b7473c4",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "241b9e60c0eb22ce8346b1bc58412f56961346c9846757e0e11239d7a4b6b72a"
+  },
+  {
+    "index": 138,
+    "prev_hash": "241b9e60c0eb22ce8346b1bc58412f56961346c9846757e0e11239d7a4b6b72a",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "16206d7f6bfe73ca4a97cf8c955cb4ecda405a4f373b944207202c76a05958aa"
+  },
+  {
+    "index": 139,
+    "prev_hash": "16206d7f6bfe73ca4a97cf8c955cb4ecda405a4f373b944207202c76a05958aa",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "586bffab1671bf67143a5ba0f56f2a98918f293eba9a54829aad09f5b968dbb5"
+  },
+  {
+    "index": 140,
+    "prev_hash": "586bffab1671bf67143a5ba0f56f2a98918f293eba9a54829aad09f5b968dbb5",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "be6464f9364894850ed20a311098b730184b5b1508ed9fccf74c9d892ceccdc5"
+  },
+  {
+    "index": 141,
+    "prev_hash": "be6464f9364894850ed20a311098b730184b5b1508ed9fccf74c9d892ceccdc5",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "7b03cf1a7f78bae02227bb135792d8a7a5c04990f6ada464f1da083a129a0b36"
+  },
+  {
+    "index": 142,
+    "prev_hash": "7b03cf1a7f78bae02227bb135792d8a7a5c04990f6ada464f1da083a129a0b36",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "28b15258c025d064550cdd32abfe3651e50f2f19c01f9335a1f08c5f4bbf2a72"
+  },
+  {
+    "index": 143,
+    "prev_hash": "28b15258c025d064550cdd32abfe3651e50f2f19c01f9335a1f08c5f4bbf2a72",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "3f834d52870677a9f6781498863fb21ed7e2e21c6d91cfdb1b6f114eb4fad9b3"
+  },
+  {
+    "index": 144,
+    "prev_hash": "3f834d52870677a9f6781498863fb21ed7e2e21c6d91cfdb1b6f114eb4fad9b3",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "06f4ea0bd36becbf09c7e7b605b6ea5a92af867697174c82b3d8e575d1189641"
+  },
+  {
+    "index": 145,
+    "prev_hash": "06f4ea0bd36becbf09c7e7b605b6ea5a92af867697174c82b3d8e575d1189641",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "1e18f324efd7f7698e31b4b3942e29721feffe803f7ea6d1f14ce8fabacaa1b0"
+  },
+  {
+    "index": 146,
+    "prev_hash": "1e18f324efd7f7698e31b4b3942e29721feffe803f7ea6d1f14ce8fabacaa1b0",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "2e0f403f0e6ccf946125901363a7322f6c69d074c28c9c9f9c7197aa3d4d048c"
+  },
+  {
+    "index": 147,
+    "prev_hash": "2e0f403f0e6ccf946125901363a7322f6c69d074c28c9c9f9c7197aa3d4d048c",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "beaccd6deb1c66a43048c5e8ab79f1834514cd7f7a7d36861d76969e8b6fddba"
+  },
+  {
+    "index": 148,
+    "prev_hash": "beaccd6deb1c66a43048c5e8ab79f1834514cd7f7a7d36861d76969e8b6fddba",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "d469a75210178764885cb01618ee1798c33607057d527cb9714c030d5029a817"
+  },
+  {
+    "index": 149,
+    "prev_hash": "d469a75210178764885cb01618ee1798c33607057d527cb9714c030d5029a817",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "98c85ebf414076b83cd73c12a9de1d8671609d440c0b191487f95100e94d468d"
+  },
+  {
+    "index": 150,
+    "prev_hash": "98c85ebf414076b83cd73c12a9de1d8671609d440c0b191487f95100e94d468d",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "98611a9dba1d7b1862540ae8a8af1b258a5b38535c6b992655416b23d818ae9e"
+  },
+  {
+    "index": 151,
+    "prev_hash": "98611a9dba1d7b1862540ae8a8af1b258a5b38535c6b992655416b23d818ae9e",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "23adf34e5b9635ea2e706a0bc8827ba9e270cb9e8e739279b048a35063d47eb6"
+  },
+  {
+    "index": 152,
+    "prev_hash": "23adf34e5b9635ea2e706a0bc8827ba9e270cb9e8e739279b048a35063d47eb6",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "b8739f7082103ec78e511cd62edd8e26bd8d626bd53cb5c2ffd21f8de6cf3228"
+  },
+  {
+    "index": 153,
+    "prev_hash": "b8739f7082103ec78e511cd62edd8e26bd8d626bd53cb5c2ffd21f8de6cf3228",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "575a2df0ac56cb7feaf17349e20428aaab54aaf876d3b2402d39365ce8695954"
+  },
+  {
+    "index": 154,
+    "prev_hash": "575a2df0ac56cb7feaf17349e20428aaab54aaf876d3b2402d39365ce8695954",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "d4805ae5574f4f5976f2f985a3f5fdf0b35f5a10d0cb88d7c1b52d984a4a7c99"
+  },
+  {
+    "index": 155,
+    "prev_hash": "d4805ae5574f4f5976f2f985a3f5fdf0b35f5a10d0cb88d7c1b52d984a4a7c99",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "55a1849ff9b85b8a1a1a7b81d71005ee486870abf156b99d4730603fce99ca09"
+  },
+  {
+    "index": 156,
+    "prev_hash": "55a1849ff9b85b8a1a1a7b81d71005ee486870abf156b99d4730603fce99ca09",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "36fd1f793ff03465626ad63b462cb577e01b856596ca256224ca961e59eab7b1"
+  },
+  {
+    "index": 157,
+    "prev_hash": "36fd1f793ff03465626ad63b462cb577e01b856596ca256224ca961e59eab7b1",
+    "action": "TEST_ACTION",
+    "data": {
+      "test": true
+    },
+    "current_hash": "24fd202f93d1307580a8d1ddd8fe9696ad4e9df8232ad055b03bf7ba42230995"
+  },
+  {
+    "index": 158,
+    "prev_hash": "24fd202f93d1307580a8d1ddd8fe9696ad4e9df8232ad055b03bf7ba42230995",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "9bea48c98429c8ea7d3184a62cbf99d400e40fc21b95b0907f503c02ab7aca0b"
+  },
+  {
+    "index": 159,
+    "prev_hash": "9bea48c98429c8ea7d3184a62cbf99d400e40fc21b95b0907f503c02ab7aca0b",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "d0fa3d02bce8e88e3bdad2d72244a4df579d884b3bbb4cf3c6f893cb478fb484"
+  },
+  {
+    "index": 160,
+    "prev_hash": "d0fa3d02bce8e88e3bdad2d72244a4df579d884b3bbb4cf3c6f893cb478fb484",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-101",
+      "employee_id": "EMP001",
+      "merchant": "The Bistro",
+      "total": 85.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "27113157621aadd8f2db5ee9736a1afb736033973e4c1647dc2df3eee2723034"
+  },
+  {
+    "index": 161,
+    "prev_hash": "27113157621aadd8f2db5ee9736a1afb736033973e4c1647dc2df3eee2723034",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-102",
+      "employee_id": "EMP001",
+      "merchant": "Grand Hotel",
+      "total": 220.0,
+      "currency": "USD",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 4
+    },
+    "current_hash": "9e7d4b9bea71babcc52f7902290098960d0e5975259f2c968fa25d1b6e04e554"
+  },
+  {
+    "index": 162,
+    "prev_hash": "9e7d4b9bea71babcc52f7902290098960d0e5975259f2c968fa25d1b6e04e554",
+    "action": "MANUAL_APPROVE",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "by": "finance"
+    },
+    "current_hash": "f42911d873d61ce64a64bcc7e3910adbbfb4b753f8ec173d30ad476792d48949"
+  },
+  {
+    "index": 163,
+    "prev_hash": "f42911d873d61ce64a64bcc7e3910adbbfb4b753f8ec173d30ad476792d48949",
+    "action": "MANUAL_REJECT",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "by": "finance"
+    },
+    "current_hash": "ed0dbbe781f5a2ecec7331dbe6d18f17ae9ace7e2e3f8214068c34fcdafa062f"
+  },
+  {
+    "index": 164,
+    "prev_hash": "ed0dbbe781f5a2ecec7331dbe6d18f17ae9ace7e2e3f8214068c34fcdafa062f",
+    "action": "MANUAL_APPROVE",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "by": "finance"
+    },
+    "current_hash": "d3a1f37b78fe695e518314b4622abb202ed6ba3e05b07d7783454be938cff336"
+  },
+  {
+    "index": 165,
+    "prev_hash": "d3a1f37b78fe695e518314b4622abb202ed6ba3e05b07d7783454be938cff336",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "b797dbade79c35ee94df6a7c08636e33cebb83347614463278405cb02f22c509"
+  },
+  {
+    "index": 166,
+    "prev_hash": "b797dbade79c35ee94df6a7c08636e33cebb83347614463278405cb02f22c509",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "975098cb0a269521180525656f4320a951020b28da443b5626ab11bc428f2479"
+  },
+  {
+    "index": 167,
+    "prev_hash": "975098cb0a269521180525656f4320a951020b28da443b5626ab11bc428f2479",
+    "action": "RECEIPT_COMMITTED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "total": 4575.0
+    },
+    "current_hash": "effc720976310f09e2e15865504a7e69dd12dfc68810076838663d15778c2738"
+  },
+  {
+    "index": 168,
+    "prev_hash": "effc720976310f09e2e15865504a7e69dd12dfc68810076838663d15778c2738",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "a50b3f38ef5593a97db87e6b7df4023b02771636054094de26ff82cd4796a631"
+  },
+  {
+    "index": 169,
+    "prev_hash": "a50b3f38ef5593a97db87e6b7df4023b02771636054094de26ff82cd4796a631",
+    "action": "RECEIPT_COMMITTED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "total": 4575.0
+    },
+    "current_hash": "99e47e54a3649a77ceba6c0169f5037106f83cfb6f507ff55d819855a9cbd755"
+  },
+  {
+    "index": 170,
+    "prev_hash": "99e47e54a3649a77ceba6c0169f5037106f83cfb6f507ff55d819855a9cbd755",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "employee_id": "EMP001",
+      "merchant": "ABNDG HOSPITALITY PVT LTD",
+      "total": 4575.0,
+      "currency": "INR",
+      "status": "APPROVE",
+      "approved_amount": 3978.0,
+      "flags_count": 0
+    },
+    "current_hash": "4f22bafbc969fb0a90d1d0ead7b3e7589c202b85afe73f2ec2b3da49a7020539"
+  },
+  {
+    "index": 171,
+    "prev_hash": "4f22bafbc969fb0a90d1d0ead7b3e7589c202b85afe73f2ec2b3da49a7020539",
+    "action": "RECEIPT_COMMITTED",
+    "data": {
+      "receipt_id": "REC-ab0952",
+      "total": 4575.0
+    },
+    "current_hash": "41c705c2be577c5536fa028d06a526de0a2253dea2207ce2d806375b448e2335"
+  },
+  {
+    "index": 172,
+    "prev_hash": "41c705c2be577c5536fa028d06a526de0a2253dea2207ce2d806375b448e2335",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "fdb39e55b901b61cf218decae7b3d744c037889caab0ffda4208925171901383"
+  },
+  {
+    "index": 173,
+    "prev_hash": "fdb39e55b901b61cf218decae7b3d744c037889caab0ffda4208925171901383",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-5ae788",
+      "employee_id": "EMP001",
+      "merchant": "Sadakchaap (Andheri)",
+      "total": 198.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 1
+    },
+    "current_hash": "0482f896565fc58a27e26300d41825cb7a9db634c312bac19964130c312b2f8d"
+  },
+  {
+    "index": 174,
+    "prev_hash": "0482f896565fc58a27e26300d41825cb7a9db634c312bac19964130c312b2f8d",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-76fe5c",
+      "employee_id": "EMP001",
+      "merchant": "La Pino'z (VILE PARLE , EAST MUMBAI)",
+      "total": 529.0,
+      "currency": "INR",
+      "status": "REJECT",
+      "approved_amount": 0.0,
+      "flags_count": 2
+    },
+    "current_hash": "bed08220a2530b143860652e5768ad084e5b0f1d81a61a857e2e78ffdac8a520"
+  },
+  {
+    "index": 175,
+    "prev_hash": "bed08220a2530b143860652e5768ad084e5b0f1d81a61a857e2e78ffdac8a520",
+    "action": "RECEIPT_PROCESSED",
+    "data": {
+      "receipt_id": "REC-438c10",
+      "employee_id": "EMP001",
+      "merchant": "The Tack Room",
+      "total": 124.53,
+      "currency": "USD",
+      "status": "MANUAL_REVIEW",
+      "approved_amount": 114.0,
+      "flags_count": 1
+    },
+    "current_hash": "b690cddc66ba382038eb084f896a6ced84eb167a8db0bd5ba01f33028b441d37"
+  }
+]

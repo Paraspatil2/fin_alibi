@@ -1,0 +1,92 @@
+{
+  "id": "REC-ab0952",
+  "employee_id": "EMP001",
+  "merchant": "ABNDG HOSPITALITY PVT LTD",
+  "tax_id": "27AAC4696A123",
+  "bill_no": "46416",
+  "date": "2023-07-30",
+  "time": null,
+  "city": "Navi Mumbai",
+  "country": "India",
+  "currency": "INR",
+  "total": 4575.0,
+  "tax_breakdown": [
+    {
+      "name": "CGST",
+      "rate": 2.5,
+      "amount": 16.95,
+      "confidence": 0.99
+    },
+    {
+      "name": "SGST",
+      "rate": 2.5,
+      "amount": 16.95,
+      "confidence": 0.99
+    },
+    {
+      "name": "Service Charge",
+      "rate": 10.0,
+      "amount": 397.8,
+      "confidence": 0.99
+    },
+    {
+      "name": "VAT",
+      "rate": 5.0,
+      "amount": 165.0,
+      "confidence": 0.99
+    }
+  ],
+  "round_off": 0.3,
+  "payment_method": null,
+  "line_items": [
+    {
+      "description": "Cheesey French Fries",
+      "quantity": 1.0,
+      "unit_price": 259.0,
+      "total": 259.0,
+      "category": "Food",
+      "confidence": 0.99
+    },
+    {
+      "description": "Hakka",
+      "quantity": 1.0,
+      "unit_price": 319.0,
+      "total": 319.0,
+      "category": "Food",
+      "confidence": 0.98
+    },
+    {
+      "description": "Salted Drinks",
+      "quantity": 1.0,
+      "unit_price": 100.0,
+      "total": 100.0,
+      "category": "Beverage",
+      "confidence": 0.99
+    },
+    {
+      "description": "Cardi Black (30)",
+      "quantity": 22.0,
+      "unit_price": 150.0,
+      "total": 3300.0,
+      "category": "Beverage",
+      "confidence": 0.99
+    }
+  ],
+  "attendees": [],
+  "client_name": null,
+  "notes": "Dine In: L-2, Cashier: Biber, FSSAI LIC No.: 11518016000549",
+  "trip_id": null,
+  "channel": "in-store",
+  "submitted_at": null,
+  "confidence_scores": {
+    "merchant": 0.99,
+    "tax_id": 0.99,
+    "bill_no": 0.99,
+    "date": 0.99,
+    "total": 0.99,
+    "line_items": 0.99
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "ab0952471d157de8b402c4ce00a169949a90b93c28e16bbd206beea78cb9650d"
+}

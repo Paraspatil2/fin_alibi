@@ -1,0 +1,64 @@
+{
+  "id": "REC-receipt_00003",
+  "employee_id": "EMP001",
+  "merchant": "Bintang Bremer",
+  "tax_id": null,
+  "bill_no": null,
+  "date": "2026-10-01",
+  "time": null,
+  "city": null,
+  "country": null,
+  "currency": "USD",
+  "total": 302016.0,
+  "tax_breakdown": [
+    {
+      "name": "Tax",
+      "rate": null,
+      "amount": 52416.0,
+      "confidence": 1.0
+    }
+  ],
+  "round_off": 0.0,
+  "payment_method": null,
+  "line_items": [
+    {
+      "description": "Bintang Bremer",
+      "quantity": 1.0,
+      "unit_price": null,
+      "total": 59000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "Chicken H-H",
+      "quantity": 1.0,
+      "unit_price": null,
+      "total": 190000.0,
+      "category": null,
+      "confidence": 1.0
+    },
+    {
+      "description": "Ades",
+      "quantity": 1.0,
+      "unit_price": null,
+      "total": 10000.0,
+      "category": null,
+      "confidence": 1.0
+    }
+  ],
+  "attendees": [],
+  "client_name": null,
+  "notes": null,
+  "trip_id": null,
+  "channel": "Digital",
+  "submitted_at": null,
+  "confidence_scores": {
+    "merchant": 0.99,
+    "total": 0.99,
+    "date": 0.99,
+    "line_items": 0.99
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "8f73f0c4803ea8815040a50e3389d4f3fa15e8c28cb6d50ea9854f6f6c22bd63"
+}

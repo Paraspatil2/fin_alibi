@@ -1,0 +1,39 @@
+{
+  "id": "REC-MOCK-1",
+  "employee_id": "EMP001",
+  "merchant": "Mock Cafe",
+  "tax_id": null,
+  "bill_no": null,
+  "date": "2026-10-05",
+  "time": null,
+  "city": null,
+  "country": null,
+  "currency": "USD",
+  "total": 42.5,
+  "tax_breakdown": [],
+  "round_off": 0.0,
+  "payment_method": null,
+  "line_items": [
+    {
+      "description": "Coffee and Sandwich",
+      "quantity": null,
+      "unit_price": null,
+      "total": 42.5,
+      "category": null,
+      "confidence": null
+    }
+  ],
+  "attendees": [],
+  "client_name": null,
+  "notes": null,
+  "trip_id": null,
+  "channel": "Digital",
+  "submitted_at": null,
+  "confidence_scores": {
+    "total": 0.98,
+    "date": 0.99
+  },
+  "total_reconstructed": false,
+  "extraction_failed": false,
+  "file_sha256": "43044b9f977ef333aa328b242d0e9ff0f9fed13e1c77abdd5ff12dd8edac5dd5"
+}

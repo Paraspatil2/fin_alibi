@@ -1,0 +1,42 @@
+[
+  {
+    "rule_id": "R-MEAL-01",
+    "category": "Meals & Entertainment",
+    "max_daily": 100.0,
+    "allowed_grades": ["L1", "L2", "L3", "L4", "Executive"],
+    "non_reimbursable_items": ["alcohol", "minibar", "personal care", "fines"],
+    "requires_client_name": true,
+    "requires_attendee_count": false,
+    "description": "Daily meal cap and client name required for client meals."
+  },
+  {
+    "rule_id": "R-HOTEL-01",
+    "category": "Lodging",
+    "max_daily": 250.0,
+    "allowed_grades": ["L1", "L2", "L3", "L4", "Executive"],
+    "non_reimbursable_items": ["alcohol", "minibar", "movies", "laundry"],
+    "requires_client_name": false,
+    "requires_attendee_count": false,
+    "description": "Standard lodging cap per night with strict exclusions."
+  },
+  {
+    "rule_id": "R-TRANS-01",
+    "category": "Transportation",
+    "max_daily": 150.0,
+    "allowed_grades": ["L1", "L2", "L3", "L4", "Executive"],
+    "non_reimbursable_items": ["fines", "parking tickets", "personal trips"],
+    "requires_client_name": false,
+    "requires_attendee_count": false,
+    "description": "Transportation daily allowance cap."
+  },
+  {
+    "rule_id": "R-DUP-01",
+    "category": "Anti-Fraud & Integrity",
+    "max_daily": null,
+    "allowed_grades": ["L1", "L2", "L3", "L4", "Executive"],
+    "non_reimbursable_items": [],
+    "requires_client_name": false,
+    "requires_attendee_count": false,
+    "description": "Strict prohibition on duplicate receipt submissions across all employees and dates."
+  }
+]
